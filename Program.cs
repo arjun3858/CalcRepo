@@ -3,3 +3,5 @@ using CalcExample;
 Calc calc = new Calc();
 Console.WriteLine("Add Call");
 calc.Add(12, 12);
+Console.WriteLine("Multiply Call");
+calc.Multi(12, 11);
